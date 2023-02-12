@@ -6,7 +6,9 @@
     --color4: #05C7F2;
     --color5: #DFF5EA;
 }
-
+* {
+    scroll-behavior: smooth;
+}
 body {
     color: var(--color5);
     background-color: var(--color2);
